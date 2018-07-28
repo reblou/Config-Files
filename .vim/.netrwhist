@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/rla/Uni/Year-2/cs256/lab2'
+let g:netrw_dirhist_2='/home/rla/Uni/Year-2/cs256/lab2/src'
+let g:netrw_dirhist_3='/home/rla/Uni/Year-2/cs256/lab3/src'
+let g:netrw_dirhist_4='/home/rla/.config/nitrogen'
+let g:netrw_dirhist_5='/home/rla/Uni/Year-2/cs241/coursework'
+let g:netrw_dirhist_6='/home/rla/Videos/Keeping Up with the Joneses_2016_Toriyal_Ruгtracker'
